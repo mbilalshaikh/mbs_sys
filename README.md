@@ -1,7 +1,7 @@
 # mbs_sys
 ## _The python system info extractor library_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
+![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/mbilalshaikh/mbs_sys)
 
