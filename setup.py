@@ -9,7 +9,7 @@ setup(
   author = 'Muhammad Bilal Shaikh',                   # Type in your name
   author_email = 'mbs.techy@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/mbilalshaikh',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/mbilalshaikh/mbs_sys/archive/refs/tags/v_01.tar.gz',    # I explain this later on
   keywords = ['system-info', 'ip-address', 'mac-address'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'validators',
