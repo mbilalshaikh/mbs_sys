@@ -1,9 +1,9 @@
 # mbs_sys
 ## _The python system info extractor library_
 
-[![mbs_sys]
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
 
-[![Build Status]
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/mbilalshaikh/mbs_sys)
 
 mbs_sys is a python library for extracting system information without knowing any specific libraries.
 
