@@ -14,4 +14,4 @@ class Sys:
         self.info['RAM']=str(round(psutil.virtual_memory().total / (1024.0 **3)))+" GB"
         
     def get_info(self):
-        print(self.info)
+        return self.info
