@@ -12,6 +12,6 @@ class Sys:
         self.info['iP-Address']=socket.gethostbyname(socket.gethostname())
         self.info['MAC-Address']=':'.join(re.findall('..', '%012x' % uuid.getnode()))
         self.info['RAM']=str(round(psutil.virtual_memory().total / (1024.0 **3)))+" GB"
-
-
         
+    def get_info(self):
+        print(self.info)
